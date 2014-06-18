@@ -1,0 +1,219 @@
+
+
+html {
+
+	background-color: #EBCF47;
+
+}
+
+#head {
+	display: block;
+	height: 100px;
+	width: 95%;
+	background-color:#87CEFA;
+	margin-top: -20px;
+	margin-left: 26px;
+	border: 5px solid black;
+	border-top-left-radius: 200px;
+	border-top-right-radius: 200px;
+	border-bottom-left-radius: 200px;
+	border-bottom-right-radius: 200px;
+	margin-bottom: 30px;
+	text-align: center;
+
+}
+
+
+#header {
+
+	text-align: center;
+	margin-top: -25px;
+
+}
+
+#prof {
+
+border: 15px solid #4682b4;	
+}
+
+#wfu {
+
+border: 10px solid black;
+
+}
+
+li.a {
+	display: inline;
+	border: 4px solid black;
+	font-family: Arial;
+	font-size: 1.25em;
+	border-radius: 0px;
+	padding: 5px;
+	padding-left: 12px;
+	background-color: #69D2E7; 
+	opacity: 0.75;
+
+
+
+}
+
+a:visited {
+
+	color: black;
+
+}
+
+
+
+
+
+h1 {
+	
+	font-family: Times;
+	font-size: 3em;
+	font-color: black;
+	text-align: center;
+
+}
+
+p{
+
+	font-size: 1.2em;
+
+}
+
+#wake {
+padding-top: 20px;
+position: relative; 
+top: 15px;
+
+}
+
+#create {
+position: relative; 
+text-align: center;
+top: 42em;
+
+}
+
+#left {
+padding-left: 200px;
+
+	float: left;
+}
+
+
+#right {
+
+padding-left: 300px;
+float: left;
+}
+
+#twitter {
+margin-top: 30px;
+padding-left: 2em;
+
+}
+
+#clickme {
+display: inline-block;
+float: right;
+margin: 110px;
+text-indent: -1575px;
+text-align: center;
+color: blue;
+
+}
+
+
+td {
+
+border: 2px solid black;
+height: 20px;
+
+}
+table {
+border: 4px solid black;
+margin-left: 100px;
+
+}
+
+#email {
+margin-top: 50px;
+opacity: 0.75;
+text-align: center;
+
+}
+
+#twit {
+
+float: left;
+padding-left: 150px;
+opacity: 0.75;
+
+
+}
+
+#linked {
+
+	float: right;
+	padding-right: 150px;
+	opacity: 0.75;
+
+
+}
+
+#button {
+	clear: both;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	height: 50px;
+    width: 100px;
+    background-color: #69D2E7;
+    color: black;
+    font-family: Sans-Serif;
+    opacity: 0.5;
+    margin-left: 30px;
+}
+
+.vanish {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    background-color: #F38630;
+    border-radius: 5px;
+}
+
+#todo{
+
+	margin-top: 30px;
+
+
+}
+
+form {
+    display: inline-block;
+}
+
+#add{
+    display: inline-block;
+    height:20px;
+	width:70px;
+	background-color: blue;
+	font-family:arial;
+	font-weight:bold;
+	color: white;
+	border-radius: 5px;
+	text-align:center;
+	margin-top:2px;
+}
+
+.list {
+	font-family: Verdana;
+	color: black;
+	float: left;
+	padding-top: 10px;
+	text-indent: 575px;
+}
+
